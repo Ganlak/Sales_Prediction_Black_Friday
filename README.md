@@ -4,3 +4,19 @@ A retail company “ABC Private Limited” wants to understand the customer purc
 Now, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
 
 Link: https://datahack.analyticsvidhya.com/contest/black-friday/#ProblemStatement
+
+# Project Flow
+We will handle this problem in a structured way.
+Loading Packages and Data
+Data Structure and Content
+Exploratory Data Analysis
+Missing Value Treatment
+Feature Engineering
+Encoding Categorical Variables
+Label Encoding
+PreProcessing Data
+Modeling
+Linear Regression
+RandomForest Regressor
+XGBoost
+Deployment
