@@ -6,6 +6,7 @@ Now, they want to build a model to predict the purchase amount of customer again
 Link: https://datahack.analyticsvidhya.com/contest/black-friday/#ProblemStatement
 
 # Project Flow
+
 We will handle this problem in a structured way.
 Loading Packages and Data
 Data Structure and Content
